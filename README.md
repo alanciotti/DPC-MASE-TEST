@@ -1,9 +1,7 @@
-# GeoJSON anagrafica OSS (uso esterno)
+# Anagrafica OSS
 
 
-## Contenuto del repo
-
-Il file è un **GeoJSON [RFC 7946](https://datatracker.ietf.org/doc/html/rfc7946)**:
+Il file prodotto è un **GeoJSON [RFC 7946](https://datatracker.ietf.org/doc/html/rfc7946)**:
 
 - Radice: `type` = `"FeatureCollection"`.
 - `features`: un elemento per ogni **stazione attiva** inclusa nel dataset.
