@@ -34,7 +34,7 @@ Il file sul repository viene **rigenerato e pubblicato su GitHub su base pianifi
 ## Esempio del dataset
 
 
-{
+<pre> ```{
   "type": "FeatureCollection",
   "features": [
     {
@@ -390,4 +390,4 @@ Il file sul repository viene **rigenerato e pubblicato su GitHub su base pianifi
         ],
         "sensors_count": 21
       }
-    },
+    }``` </pre>
