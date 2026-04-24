@@ -22,14 +22,9 @@ In `properties` si trovano:
 
 Ogni voce in `sensors` può includere, tra gli altri campi: identificativo e nome sensore, tipo/parametro misurato, unità di misura, quota, stati operativi, eventuali flag di finanziamento e **date in formato ISO** dove previsto.
 
-
-## Naming del file e posizione
-
-Il nome predefinito del file sul repository è **`anagrafica-oss.geojson`** 
-
 ## Frequenza di aggiornamento
 
-Il file sul repository viene **rigenerato e pubblicato su GitHub su base pianificata**, con cadenza prevista di **circa ogni 48 ore** (due giorni).
+Il file sul repository viene **rigenerato e pubblicato su GitHub su base pianificata**, con cadenza prevista di **ogni 48 ore**.
 
 ## Esempio del dataset
 
